@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PatrolStopper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ignore Player
+  - Projectile
+  - OneWayPlatform
+  - IgnoreEnemies
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3468698265
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 2518540707
+    locked: 0
+  - name: Characters
+    uniqueID: 2739213003
+    locked: 0
+  - name: Platforms
+    uniqueID: 2680772077
+    locked: 0
+  - name: Prompts
+    uniqueID: 3614352205
+    locked: 0
